@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Testt\\Test2Branch\\",
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\Desktop\\Test\\Test2_branch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6A848-E27F-4FE8-B8B7-17536129CBFA}|Test2Branch\\Test2Branch.csproj|c:\\users\\user\\desktop\\testt\\test2branch\\test2branch\\controllers\\aqilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E6A848-E27F-4FE8-B8B7-17536129CBFA}|Test2Branch\\Test2Branch.csproj|c:\\users\\nuran\\desktop\\test\\test2_branch\\test2branch\\controllers\\aqilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6A848-E27F-4FE8-B8B7-17536129CBFA}|Test2Branch\\Test2Branch.csproj|solutionrelative:test2branch\\controllers\\aqilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6A848-E27F-4FE8-B8B7-17536129CBFA}|Test2Branch\\Test2Branch.csproj|c:\\users\\nuran\\desktop\\test\\test2_branch\\test2branch\\controllers\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6A848-E27F-4FE8-B8B7-17536129CBFA}|Test2Branch\\Test2Branch.csproj|solutionrelative:test2branch\\controllers\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +34,30 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\Test\\Test2_branch\\Test2Branch\\Controllers\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Test2Branch\\Controllers\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\Test\\Test2_branch\\Test2Branch\\Controllers\\AssemblyInfo.cs",
+              "RelativeToolTip": "Test2Branch\\Controllers\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:26:34.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AqilController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Testt\\Test2Branch\\Test2Branch\\Controllers\\AqilController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\Test\\Test2_branch\\Test2Branch\\Controllers\\AqilController.cs",
               "RelativeDocumentMoniker": "Test2Branch\\Controllers\\AqilController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Testt\\Test2Branch\\Test2Branch\\Controllers\\AqilController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\Test\\Test2_branch\\Test2Branch\\Controllers\\AqilController.cs",
               "RelativeToolTip": "Test2Branch\\Controllers\\AqilController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T07:54:24.886Z",
               "EditorCaption": ""

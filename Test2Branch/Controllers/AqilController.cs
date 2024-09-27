@@ -8,14 +8,14 @@ namespace Test2Branch.Controllers
     [ApiController]
     public class AqilController : ControllerBase
     {
-        // GET: api/<AqilController>
+       
         [HttpGet]
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/<AqilController>/5
+        
         [HttpGet("{id}")]
         public string Get(int id)
         {
